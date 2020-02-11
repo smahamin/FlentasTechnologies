@@ -1,0 +1,19 @@
+(venv) C:\Users\maham\.PyCharmCE2019.2\config\scratches>python minimumCost.py
+Enter no of people:1
+Enter the respective costs:100
+100
+
+(venv) C:\Users\maham\.PyCharmCE2019.2\config\scratches>python minimumCost.py
+Enter no of people:2
+Enter the respective costs:1321 2450
+2450
+
+(venv) C:\Users\maham\.PyCharmCE2019.2\config\scratches>python minimumCost.py
+Enter no of people:3
+Enter the respective costs:500 123 873
+1496
+
+(venv) C:\Users\maham\.PyCharmCE2019.2\config\scratches>python minimumCost.py
+Enter no of people:3
+Enter the respective costs:300 400 600 700
+Cost value is not matching with no. of people. Please enter correct input
